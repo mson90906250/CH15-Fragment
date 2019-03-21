@@ -1,0 +1,3 @@
+include ':1507_Google_Login', ':1511_NavigationDrawer', ':1512_ButtonNavigation', ':1501_Fragment_User', ':1502_Fragment_BMI', ':1503_Fragment_Basic', ':1505_Tabbed_Activity', ':1506_Snackbar_FAB', 'viewlibrary', '1504_viewpagerindicator'
+
+include ':library'

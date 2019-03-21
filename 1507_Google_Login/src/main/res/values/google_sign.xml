@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- TODO(user): replace with your real server client ID -->
+    <!-- Server Client ID.  This should be a valid Web OAuth 2.0 Client ID obtained
+         from https://console.developers.google.com/ -->
+    <string name="server_client_id">824126231141-v9s6ur7r0hehma3v59a2hj7agc8vb95l.apps.googleusercontent.com</string>
+
+</resources>
